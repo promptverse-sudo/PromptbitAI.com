@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+motor
+pymongo
+pydantic
+pyjwt
+bcrypt
+passlib
+cryptography
+requests
+email-validator
+resend
+stripe
